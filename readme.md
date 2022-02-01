@@ -1,5 +1,5 @@
 ## Bienvenido al Repositorio de API con NodeJS y Express
-**Instalación: **
+**Instalación:**
 - Clonar el repositorio.
 - Descargar e instalar nodeJS 17.XX en adelante.
 - Descargar e instalar las siguientes librerías:
